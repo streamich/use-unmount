@@ -1,7 +1,7 @@
 # use-unmount
 
-React hook that returns a single RxJS observable, which emits once 'true` when
-the component is unmounted.
+React hook that returns a single RxJS observable, which emits once `true` when
+the component un-mounts.
 
 Install
 
